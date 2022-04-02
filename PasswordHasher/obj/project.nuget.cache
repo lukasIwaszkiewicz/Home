@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXfsDaTqav+fpUcx04w19bDXwXYgKocmLwyfCKck3kAWxZ8DS4vvrIDrlJ+SCW6tq7zBUE5QRMYjJRjlIIgVvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iwane\\code\\Home\\PasswordHasher\\PasswordHasher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iwane\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
+    "C:\\Users\\iwane\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

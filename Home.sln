@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home", "Home\Home.csproj", "{913D5FB3-AD46-49C0-9C5E-03EB27DD8808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordHasher", "PasswordHasher\PasswordHasher.csproj", "{5863BE52-7FB6-41D5-9DF6-7F80CD70D162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{D91F6049-780A-4034-8E98-F5D84FC0CDF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{7A6E0534-A8FA-48CE-9861-19643C7BF3B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordHasherApp", "PasswordHasherApp\PasswordHasherApp.csproj", "{3A9C877A-A5D7-4A0B-86F2-04468A200B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913D5FB3-AD46-49C0-9C5E-03EB27DD8808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913D5FB3-AD46-49C0-9C5E-03EB27DD8808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913D5FB3-AD46-49C0-9C5E-03EB27DD8808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913D5FB3-AD46-49C0-9C5E-03EB27DD8808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5863BE52-7FB6-41D5-9DF6-7F80CD70D162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5863BE52-7FB6-41D5-9DF6-7F80CD70D162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5863BE52-7FB6-41D5-9DF6-7F80CD70D162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5863BE52-7FB6-41D5-9DF6-7F80CD70D162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9C877A-A5D7-4A0B-86F2-04468A200B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9C877A-A5D7-4A0B-86F2-04468A200B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9C877A-A5D7-4A0B-86F2-04468A200B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9C877A-A5D7-4A0B-86F2-04468A200B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0DC551C-8C35-4AEC-836A-5AC35BFA5C09}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5863BE52-7FB6-41D5-9DF6-7F80CD70D162} = {D91F6049-780A-4034-8E98-F5D84FC0CDF0}
+		{3A9C877A-A5D7-4A0B-86F2-04468A200B3E} = {7A6E0534-A8FA-48CE-9861-19643C7BF3B5}
+	EndGlobalSection
+EndGlobal
